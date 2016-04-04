@@ -1,0 +1,6 @@
+CLASSPATH=$CLASSPATH:`pwd`/lib/oracle.ucm.ridc.jar:.
+export CLASSPATH
+
+echo "javac -classpath  $"CLASSPATH" TestRIDCDocInfo.java"
+echo "java -classpath  $"CLASSPATH" TestRIDCDocInfo"
+

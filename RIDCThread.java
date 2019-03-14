@@ -9,7 +9,7 @@ import oracle.stellent.ridc.protocol.http.*;
 import java.util.*;
 import java.text.DecimalFormat;
 /*
- * @author Matt Rudd - Oracle Inc
+ * @Sterin 
  *
  * This is a class used to test the basic functionality
  * of submitting a checkin to Content Server using RIDC.
